@@ -1,2 +1,2 @@
 # paint-pink
-![Reference Image](assets/photos/reference.jpg)
+![Reference Image](assets/photos/print.png)
